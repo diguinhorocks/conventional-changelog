@@ -1,7 +1,7 @@
 {
-  "name": "conventional-changelog",
-  "codename": "reorder",
-  "version": "0.0.11",
+  "name": "schemaful",
+  "codename": "teste",
+  "version": "0.0.1",
   "description": "Generate a markdown changelog from git commit metadata",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajoslin/conventional-changelog.git"
+    "url": "https://github.com/diguinhorocks/schemaful.git"
   },
   "keywords": [
     "changelog"

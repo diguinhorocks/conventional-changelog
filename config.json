@@ -1,0 +1,13 @@
+{
+  "changes": "msg",
+  "feature": "feat",
+  "bugfix": "fix",
+  "closes": "Fecha",
+  "fixes": "Corrige",
+  "resolves": "Resolve",
+  "log": {
+    "bugfixes": "Bugfixes",
+    "features": "Features",
+    "updates": "Atualizações"
+  }
+}

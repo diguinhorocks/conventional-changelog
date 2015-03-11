@@ -1,3 +1,451 @@
+<a name"0.0.1"></a>
+### 0.0.1 "teste" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.1"></a>
+### 0.0.1 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.1"></a>
+### 0.0.1 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.1"></a>
+### 0.0.1 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.1"></a>
+### 0.0.1 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.1"></a>
+### 0.0.1 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.1"></a>
+### 0.0.1 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/diguinhorocks/schemaful/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/diguinhorocks/schemaful/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/diguinhorocks/schemaful/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/diguinhorocks/schemaful/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/diguinhorocks/schemaful/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/diguinhorocks/schemaful/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/diguinhorocks/schemaful/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/diguinhorocks/schemaful/commit/386cd404))
+
+
+<a name"0.0.11"></a>
+### 0.0.11 "reorder" (2015-03-11)
+
+
+#### Bugfixes
+
+* **err:** remove an extra error sentence ([2fd3252c](https://github.com/ajoslin/conventional-changelog/commit/2fd3252c))
+* **first commit:** add first commit to changelog ([386cd404](https://github.com/ajoslin/conventional-changelog/commit/386cd404))
+* **git:** use --abbrev=0 to only get tag from same branch ([69cfb5c6](https://github.com/ajoslin/conventional-changelog/commit/69cfb5c6))
+* **header:** fix no `<a>` if options.repository provided ([7cb5cb56](https://github.com/ajoslin/conventional-changelog/commit/7cb5cb56))
+* **pkg:** handle the situation where package.json cannot be found ([518bc56e](https://github.com/ajoslin/conventional-changelog/commit/518bc56e))
+* **version:** default version is read from package.json properly ([f684b9be](https://github.com/ajoslin/conventional-changelog/commit/f684b9be))
+
+
+#### Features
+
+* **defaults:** version and repository are read from package.json ([cb1feb7d](https://github.com/ajoslin/conventional-changelog/commit/cb1feb7d))
+
+
+#### Atualizações
+
+* handle the situation where package.json cannot be found
+
+ ([518bc56e](https://github.com/ajoslin/conventional-changelog/commit/518bc56e))
+* use --abbrev=0 to only get tag from same branch
+
+ ([69cfb5c6](https://github.com/ajoslin/conventional-changelog/commit/69cfb5c6))
+* remove an extra error sentence
+
+ ([2fd3252c](https://github.com/ajoslin/conventional-changelog/commit/2fd3252c))
+* default version is read from package.json properly
+Default version was null before cb1feb7dd8f14cc55472fd0fbc229f23782c7582 hence the bug
+
+ ([f684b9be](https://github.com/ajoslin/conventional-changelog/commit/f684b9be))
+* version and repository are read from package.json
+as discussed in https://github.com/btford/grunt-conventional-changelog/pull/44, we think it is better if we move more logics to this main module
+
+these defaults would also be great for cli
+
+Closes #38
+
+ ([cb1feb7d](https://github.com/ajoslin/conventional-changelog/commit/cb1feb7d))
+* make mocha as a dev dependency
+fixes #39
+
+ ([db746531](https://github.com/ajoslin/conventional-changelog/commit/db746531))
+* fix no `<a>` if options.repository provided
+Closes #26
+
+ ([7cb5cb56](https://github.com/ajoslin/conventional-changelog/commit/7cb5cb56))
+* add first commit to changelog
+First commit is always missing from changelog.
+
+ ([386cd404](https://github.com/ajoslin/conventional-changelog/commit/386cd404))
+
+
 ### 0.0.11 "reorder" (2014-05-28)
 
 
